@@ -12,3 +12,17 @@
 /Users/philipkaim1/Desktop/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.RazorTargetAssemblyInfo.cache
 /Users/philipkaim1/Desktop/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.dll
 /Users/philipkaim1/Desktop/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.pdb
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/bin/Debug/netcoreapp2.2/DotNet.API.deps.json
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/bin/Debug/netcoreapp2.2/DotNet.API.runtimeconfig.json
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/bin/Debug/netcoreapp2.2/DotNet.API.runtimeconfig.dev.json
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/bin/Debug/netcoreapp2.2/DotNet.API.dll
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/bin/Debug/netcoreapp2.2/DotNet.API.pdb
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.csprojAssemblyReference.cache
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.csproj.CoreCompileInputs.cache
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.RazorAssemblyInfo.cache
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.RazorAssemblyInfo.cs
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.AssemblyInfoInputs.cache
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.AssemblyInfo.cs
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.RazorTargetAssemblyInfo.cache
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.dll
+/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/Debug/netcoreapp2.2/DotNet.API.pdb

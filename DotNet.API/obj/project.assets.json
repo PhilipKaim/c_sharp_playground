@@ -12499,11 +12499,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/philipkaim1/Desktop/DotNet.API/DotNet.API.csproj",
+      "projectUniqueName": "/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/DotNet.API.csproj",
       "projectName": "DotNet.API",
-      "projectPath": "/Users/philipkaim1/Desktop/DotNet.API/DotNet.API.csproj",
+      "projectPath": "/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/DotNet.API.csproj",
       "packagesPath": "/Users/philipkaim1/.nuget/packages/",
-      "outputPath": "/Users/philipkaim1/Desktop/DotNet.API/obj/",
+      "outputPath": "/Users/philipkaim1/Desktop/c_sharp_playground-master/DotNet.API/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

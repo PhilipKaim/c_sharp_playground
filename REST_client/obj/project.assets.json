@@ -1969,7 +1969,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
-      "sha512": "+rD+UzHYxfXsT+YrMI0njdFaP/o1cnmSnRWy4os/NaWJC7FyCHrCOwiAKUwz+smQ3cPKZ8pAAv5zM5DDBG4K4w==",
+      "sha512": "59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
@@ -3335,30 +3335,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pkaim\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/philipkaim1/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pkaim\\desktop\\REST_client\\REST_client.csproj",
+      "projectUniqueName": "/Users/philipkaim1/Desktop/c_sharp_playground-master/REST_client/REST_client.csproj",
       "projectName": "REST_client",
-      "projectPath": "C:\\Users\\pkaim\\desktop\\REST_client\\REST_client.csproj",
-      "packagesPath": "C:\\Users\\pkaim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pkaim\\desktop\\REST_client\\obj\\",
+      "projectPath": "/Users/philipkaim1/Desktop/c_sharp_playground-master/REST_client/REST_client.csproj",
+      "packagesPath": "/Users/philipkaim1/.nuget/packages/",
+      "outputPath": "/Users/philipkaim1/Desktop/c_sharp_playground-master/REST_client/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\pkaim\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/philipkaim1/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
