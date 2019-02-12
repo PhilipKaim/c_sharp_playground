@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DotNet.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20190211111859_InitialCreate")]
+    [Migration("20190212002958_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -17,12 +17,12 @@ namespace DotNet.API.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "2.2.1-servicing-10028");
 
-            modelBuilder.Entity("DotNet.API.Modals.Value", b =>
+            modelBuilder.Entity("DotNet.API.Modals.Values", b =>
                 {
                     b.Property<int>("ID")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<string>("MyProperty");
+                    b.Property<string>("Value");
 
                     b.HasKey("ID");
 

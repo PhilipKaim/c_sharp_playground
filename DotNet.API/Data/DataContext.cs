@@ -7,6 +7,6 @@ namespace DotNet.API.Data
     {
         public DataContext(DbContextOptions<DataContext> options) : base(options) { }
 
-        public DbSet<Value> Value { get; set; }
+        public DbSet<Values> Value { get; set; }
     }
 }
